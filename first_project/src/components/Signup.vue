@@ -14,15 +14,15 @@
         </div>
         <div>
             <input type="checkbox" value="yihenew" v-model="name">
-            <label> website development </label>
+            <label> website developer </label>
         </div>
         <div>
             <input type="checkbox" value="addis" v-model="name">
-            <label> mobile app development</label>
+            <label> mobile app developer</label>
         </div>
         <div>
             <input type="checkbox" value="kassa" v-model="name">
-            <label> blog app development</label>
+            <label> blog app developer</label>
         </div>
         <div>
             <input type="text" value="kassa" v-model="singleskil" @keypress="handleSkils">
