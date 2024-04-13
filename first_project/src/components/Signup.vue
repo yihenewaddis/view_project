@@ -14,7 +14,7 @@
         </div>
         <div>
             <input type="checkbox" value="yihenew" v-model="name">
-            <label> website developer </label>
+            <label> website developer and mobile app developer </label>
         </div>
         <div>
             <input type="checkbox" value="addis" v-model="name">
