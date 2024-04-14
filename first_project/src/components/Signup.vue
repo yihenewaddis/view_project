@@ -22,10 +22,6 @@
         </div>
         <div>
             <input type="checkbox" value="addis" v-model="name">
-            <label> mobile app developer</label>
-        </div>
-        <div>
-            <input type="checkbox" value="addis" v-model="name">
             <label> qa tester</label>
         </div>
         <div>
