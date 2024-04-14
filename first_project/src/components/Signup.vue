@@ -13,6 +13,10 @@
             <label> accept terms and conditions</label>
         </div>
         <div>
+            <input type="checkbox" v-model="termAndCondition">
+            <label> accept terms and conditions</label>
+        </div>
+        <div>
             <input type="checkbox" value="yihenew" v-model="name">
             <label> website developer and mobile app developer </label>
         </div>
