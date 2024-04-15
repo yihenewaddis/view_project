@@ -4,6 +4,7 @@
       <h1>reaction timer</h1>
       <button @click="play" :disabled="isPlay" class="button">Play</button>
       <p>the score you get is {{score}} ms</p>
+      <p>this is the value</p>
       <Block v-if="isPlay" :delay="delay" @end="endGame"/>
       <Signup/>
     </div>
