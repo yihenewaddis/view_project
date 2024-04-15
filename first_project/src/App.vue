@@ -1,7 +1,7 @@
 <template>
   <div class="first">
     <div>
-      <h1>reaction timer</h1>
+      <h1>reaction timer is displayed here</h1>
       <button @click="play" :disabled="isPlay" class="button">Play</button>
       <p>the score you get is {{score}} ms</p>
       <p>this is the value</p>
