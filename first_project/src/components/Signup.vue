@@ -21,10 +21,6 @@
             <label> website developer and mobile app developer </label>
         </div>
         <div>
-            <input type="checkbox" value="addis" v-model="name">
-            <label> qa tester</label>
-        </div>
-        <div>
             <input type="checkbox" value="kassa" v-model="name">
             <label> blog app developer</label>
         </div>
