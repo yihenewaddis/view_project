@@ -72,7 +72,7 @@ form{
 }
 label{
     letter-spacing: 1px;
-    color: gray;
+    color: white;
     font-weight: bold;
     display: inline-block;
     margin: 10px;
