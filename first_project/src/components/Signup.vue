@@ -38,6 +38,7 @@ export default {
         return{
             email:'mario',
             password:'',
+            name:'yihenew addis',
             options:'web developer',
             termAndCondition:false,
             name:[],
