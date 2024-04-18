@@ -69,6 +69,7 @@ form{
     text-align: left;
     padding: 10px;
     border-radius: 15px;
+    color: aliceblue;
 }
 label{
     letter-spacing: 1px;
